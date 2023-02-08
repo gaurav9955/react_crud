@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 0
+    },
+    {
+      "eid": 100,
+      "fname": "gaurav",
+      "lname": "rajput",
+      "city": "buldhana",
+      "id": 1
+    },
+    {
+      "eid": 101,
+      "fname": "shubhangi",
+      "lname": "rajput",
+      "city": "buldhana",
+      "id": 2
+    },
+    {
+      "eid": "1",
+      "fname": "vgyt",
+      "lname": "ftyr",
+      "ct": "pune",
+      "id": 3
+    },
+    {
+      "eid": "102",
+      "fname": "Gaurav",
+      "lname": "Rajput",
+      "ct": "Pune",
+      "id": 4
+    }
+  ]
+}
